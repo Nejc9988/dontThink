@@ -1,0 +1,2 @@
+# dontThink
+Izdelava aplikacije
